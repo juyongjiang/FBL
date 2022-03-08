@@ -1,5 +1,5 @@
 # FBL: Feature-Balanced Loss for Long-Tailed Visual Recognition
-This is the official source code for our ICME-2022 paper: [Feature-Balanced Loss for Long-Tailed Visual Recognition]() based on Pytorch. Recommending use `>exp.log 2>&1` or `2>&1 | tee` to record historical standard output. 
+This is the official source code for our ICME (2022) paper: [Feature-Balanced Loss for Long-Tailed Visual Recognition]() based on Pytorch. Recommending use `>exp.log 2>&1` or `2>&1 | tee` to record historical standard output. 
 
 ## CIFAR10
 ```bash
