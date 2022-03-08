@@ -1,0 +1,5 @@
+saved/
+*.pyc
+*__pycache__
+log/
+dataset/
