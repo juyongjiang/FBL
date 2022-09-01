@@ -55,6 +55,13 @@ $ python train.py --arch resnet152_p /
                   --loss_type 'FeaBal' --batch_size 512  --learning_rate 0.2 --lambda_ 150
 ```
 
+`or`
+
+For the sake of simplicity, you can just run the following simple command:
+```bash
+sh run.sh
+```
+
 ## More Resources
 * [Awesome-LongTailed-Learning](https://github.com/Vanint/Awesome-LongTailed-Learning)
 * [Awesome-of-Long-Tailed-Recognition](https://github.com/zwzhang121/Awesome-of-Long-Tailed-Recognition)
