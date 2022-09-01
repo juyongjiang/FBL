@@ -55,6 +55,12 @@ $ python train.py --arch resnet152_p /
                   --loss_type 'FeaBal' --batch_size 512  --learning_rate 0.2 --lambda_ 150
 ```
 
+## More Resources
+* [Awesome-LongTailed-Learning](https://github.com/Vanint/Awesome-LongTailed-Learning)
+* [Awesome-of-Long-Tailed-Recognition](https://github.com/zwzhang121/Awesome-of-Long-Tailed-Recognition)
+* [Long-Tailed-Classification-Leaderboard](https://github.com/yanyanSann/Long-Tailed-Classification-Leaderboard)
+* [BagofTricks-LT](https://github.com/zhangyongshun/BagofTricks-LT)
+
 ## Bibtex
 Please cite our paper if you find our code or paper useful:
 ```bibtex
